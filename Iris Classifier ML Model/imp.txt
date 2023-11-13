@@ -1,0 +1,11 @@
+PyGWalker: Analyze Pandas dataframe in Jupyter using a Tableau-style interface.
+
+PyGWalker is an open-source alternative to Tableau.
+
+It provides a tableau-like UI in Jupyter, allowing you to analyze data faster and without code.
+
+--
+👉 Get a Free Data Science PDF (550+ pages) with 320+ posts by subscribing to my daily newsletter today: https://bit.ly/DailyDS.
+--
+
+👉 Over to you: What are some other cool Jupyter tools you are aware of?
